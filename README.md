@@ -34,6 +34,13 @@ An interactive Excel dashboard was built to track KPIs such as:
 - Improve response workflows for frequently delayed ticket categories
 
 ## Files in This Repository
-- `it_ticket_analysis.xlsx` – main analysis file
-- `dashboard.xlsx` – interactive dashboard
-- `screenshots/` – dashboard and analysis visuals
+- Interactive Excel dashboard summarizing IT ticket KPIs
+- Business presentation outlining insights and improvement opportunities
+- Detailed analysis report (PDF)
+- Screenshots of dashboards and key analytical outputs
+- Google Sheets link containing the full question-wise analysis.
+  
+- 🔗 Google Sheets Link: https://docs.google.com/spreadsheets/d/1PKvrAerkhN8v3ncwQk0KAgCeWQcTbUDj/edit?gid=1758122094#gid=1758122094
+
+Because certain Google Sheets features do not translate cleanly to Microsoft Excel, the full analysis workbook is shared via the link below to preserve correctness and formatting:
+
