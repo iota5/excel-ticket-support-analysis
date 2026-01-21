@@ -36,7 +36,7 @@ An interactive Excel dashboard was built to track KPIs such as:
 ## Files in This Repository
 - Interactive Excel dashboard summarizing IT ticket KPIs
 - Business presentation outlining insights and improvement opportunities
-- Detailed analysis report (PDF)
+- Detailed analysis report 
 - Screenshots of dashboards and key analytical outputs
 - Google Sheets link containing the full question-wise analysis.
   
